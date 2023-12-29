@@ -1,7 +1,6 @@
 # Bank Site Web Application
 
-![Bank Site Logo]
-<img src="logo.jpg">
+![Bank Site Logo](logo.jpg)
 
 ## Description
 
